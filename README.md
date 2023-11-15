@@ -16,8 +16,9 @@ Oltre al click sul pulsante, intercettare anche il tasto ENTER per aggiungere il
 
 **BONUS 2**
 Trasformare ogni todo in un oggetto, formato da due proprietà:
-- text, una stringa che indica il testo del todo
+- text, una stringa che indica il testo del todo;
 - done, un booleano (true/false) che indica se il todo è stato fatto oppure no. Se done è true, mostrare il testo del todo sbarrato.
+
 Di conseguenza modificare la funzionalità di input in modo da aggiungere un nuovo oggetto alla lista invece della semplice stringa.
 
 **BONUS 3**
